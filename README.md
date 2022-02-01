@@ -1,6 +1,6 @@
-# python3-dev-template
+# template for development with python3
 
-A template repository for python3 development
+The template repository for development with python3
 
 ## Directory
 
